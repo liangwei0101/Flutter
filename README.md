@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+看见了Flutter框架，试试水先.
 
 ## Getting Started
 
